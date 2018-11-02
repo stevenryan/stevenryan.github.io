@@ -1,0 +1,23 @@
+#skills-page{
+  width: 100%;
+  padding-top: 50px;
+  min-height: 100vh;
+  background-color: white;
+}
+
+.skills-section{
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.skills-img{
+  height: 125px;
+  max-height: 125px;
+  max-width: 125px;
+  margin: 10px;
+  border-radius: 3px;
+}

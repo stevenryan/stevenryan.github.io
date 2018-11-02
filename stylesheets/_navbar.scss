@@ -1,0 +1,42 @@
+nav, footer{
+  background-color: rgba(0, 0, 0,0.25) !important;
+  max-width: 100%;
+}
+
+footer{
+  padding-bottom: 10px;
+  text-align: center;
+  justify-content: center;
+  margin: 10px 0;
+  a{
+    filter: invert(100%);
+  }
+  p{
+    margin-bottom: 10px;
+  }
+}
+
+#icon-logo{
+  max-height: 64px;
+  padding: 10px;
+  margin-right: -10px;
+  margin-left: 5px;
+}
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-20 { font-size: 20px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+.header-icon{ padding-right: 15px;}
+.subheader-icon{ padding-right: 10px;}
+
+.button-icon{
+  max-width: 18px;
+}
+
+.footer-icon{
+  max-width: 48px;
+  margin: 10px 10px 0 10px;
+}

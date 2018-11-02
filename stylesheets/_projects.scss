@@ -1,0 +1,20 @@
+#projects-page{
+  width: 100%;
+  background-color: white;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.card-image img{
+  height: 250px;
+}
+
+.btn{
+  background-color: rgb(31, 136, 229) !important;
+  margin: 50px 10px 0 0;
+}
+
+.btn:hover{
+  background-color: rgba(31, 136, 229, .7) !important;
+}
