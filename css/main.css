@@ -228,7 +228,9 @@ footer {
   padding-top: 50px; }
 
 .card-image img {
-  height: 250px; }
+  height: 250px;
+  max-width: 500px;
+  margin: 0 auto; }
 
 .btn {
   background-color: #1f88e5 !important;
